@@ -1,0 +1,57 @@
+<html>
+<head>
+<title>Morgan's favorite things</title>
+</head>
+<body>
+  <h1 id="top"> These are my favorite things </h1>
+ 
+<a href="My Movies"> My Movies</a><br/>
+<a href="My Foods">My Foods</a><br/>
+<a href="My Shows">My Shows</a><br/>
+<a href="My Music">My Music</a><br/>
+
+  <br>
+  <h2>
+  My Movies
+ 
+  </h2>
+  <ol>
+  <li> Hidden Figures</li>
+  <li> Just Wright </li>
+  <li> Friday </li>
+  <li> What Happened to Monday? </li>
+  <li> Baps </li>
+  </ol>
+  
+ <h2>
+ My Foods
+ </h2>
+<ol>
+<li> Seafood Pasta</li>
+<li> Corn Nuggets </li>
+<li> Salmon </li>
+<li> Conch salad </li>
+<li> Oranges</li>
+</ol>
+ <h2>
+ My Shows
+ </h2>
+<ol>
+<li> How to Get Away With Murder</li>
+<li> Grey's Anatomy </li>
+<li> Scandal</li>
+<li> Riverdale</li>
+<li> Stranger Things</li>
+</ol>
+ <h2>
+ My Music 
+ </h2>
+ <ol>
+ <li> 90's R&B</li>
+ <li> Neo-soul</li>
+ <li>R&B</li>
+ <li> Hip-Hop</li>
+ <li> Pop </li>
+ </ol>
+<a href="top">Top</a>
+ </body>
