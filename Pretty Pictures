@@ -1,0 +1,42 @@
+<html>
+<body>
+<h1>
+  <center> Here are some photos from my time abroad </center>
+  </h1> 
+  <br>
+  <h2> 
+  <center>	Tanger Med, Morocco </center>
+  </h2>
+	<center> <img src="MOROCCO.jpg"
+	alt="Photograph of me in Morocco 
+	riding a camel" width="200" height="200" /> </center>
+
+<br>
+	
+	<h2>
+		Paris, France 
+	</h2>
+		<p> <img src="EIFFEL.jpg"
+		alt= "Me at the Eiffel Tower in Paris, France"
+		title=" Morgan at the Eiffel Tower"
+		width="200" height="150" 
+		align="right"/> I travelled to Paris, France in March of 2017 while studying abroad. While there, I connected with other Howard University students, epxlored the city, and even attended a Drake concert. </p>
+
+
+<br>&nbsp;&nbsp;
+
+<br>&nbsp;&nbsp;
+	
+
+	<h2>
+	 Agra, India 
+	</h2>	
+
+		<p> <img src="FullSizeRender.jpg"
+			alt= "Me at the Taj Mahal in Agra, India "
+			title="Morgan at the Taj Mahal in Agra,India "
+			width="200" height="200"
+			align= "left" /> I had the opportunity to travel to India in December of 2016 with the Howard School of Business. It was an interesting trip, by far the dirtiest country I've ever visited. </p>
+ </br>
+</body>
+</html>
