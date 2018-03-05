@@ -1,0 +1,81 @@
+<html>
+<body>
+<h1>
+Morgan's Class Schedule 
+  </h1>
+  <br>
+<table>
+  <table border="2"       bgcolor="#efefef">  <tr>   <th width="150"></th>   
+<tr>
+    <th scope="col"> Hour </th>
+    <th scope="col">Monday</th>
+    <th scope="col">Tuesday</th>
+    <th scope="col">Wednesday</th>
+    <th scope="col">Thursday</th>
+    <th scope="col">Friday</th>
+   
+</tr>
+<tr>
+    <th scope="row">9am</th>
+    <td> </td>
+    <td> INFO 325-01 <br> 9:40 am - 11am  <b> 3 crs</b> <br>Data and Network Comm <br> Dr. Agarwal</td>  
+    <td> </td>
+     <td> INFO 325-01 <br> 9:40 am - 11am  <b> 3 crs</b> <br>Data and Network Comm <br> Dr. Agarwal</td>
+</tr>
+<tr>
+  <th scope="row">10am</th> 
+</tr>
+<tr>
+    <th scope="row">11am</th>
+    <td> INFO 210-01 <br> 11:10 am - 12:30pm  <b> 3 crs</b> <br> Intro to Soft Design <br> Dr. Buskey</td>
+    <td> </td>
+    <td> INFO 210-01 <br> 11:10 am - 12:30pm  <b> 3 crs</b> <br> Intro to Soft Design <br> Dr. Buskey</td>
+    
+</tr>
+<tr>
+   <th scope="row">12pm</th>
+    <br> <td> INFO 398-01 <br> 12:40 pm - 2:00pm  <b> 3 crs</b> <br> IS Consulting <br> Dr. Buskey</td>
+       <td> MGMT 390-06 <br> 12:40 -2:00pm <b> 3crs </b> <br> Business Policy <br> Dr. Smith </td>
+       <td> INFO 398-01 <br> 12:40 pm - 2:00pm  <b> 3 crs</b> <br> IS Consulting <br> Dr. Buskey</td>
+       <td> MGMT 390-06 <br> 12:40 -2:00pm <b> 3crs </b> <br> Business Policy <br> Dr. Smith </td>
+</tr>
+<tr>
+   <th scope="row">1pm</th> 
+   <td> INFO 398-01 <br> 12:40 pm - 2:00pm  <b> 3 crs</b> <br> IS Consulting <br> Dr. Buskey</td>
+   <td> MGMT 390-06 <br> 12:40 -2:00pm <b> 3crs </b> <br> Business Policy <br> Dr. Smith </td>
+   <td> INFO 398-01 <br> 12:40 pm - 2:00pm  <b> 3 crs</b> <br> IS Consulting <br> Dr. Buskey</td>
+   <td> MGMT 390-06 <br> 12:40 -2:00pm <b> 3crs </b> <br> Business Policy <br> Dr. Smith  </td>
+<tr>
+   <th scope="row">2pm</th>
+   <td></td>
+   <td> INFO 335-02 <br> 2:10 -3:30pm <b> 3crs </b> <br> Prod and Op Mgmt <br> Dr.Quasem </td>
+   <td> </td>
+   <td> INFO 335-02 <br> 2:10 -3:30pm <b> 3crs </b> <br> Prod and Op Mgmt <br> Dr.Quasem </td>
+</tr>
+<tr>
+      <th scope="row">3pm</th> 
+       <br> <td> INFO 387-01 <br> 3:40 pm - 5:00pm  <b> 3 crs</b> <br> Web Authoring Tools <br> Dr. Henley</td>
+       <td> </td>
+        <td> INFO 387-01 <br> 3:40 pm - 5:00pm  <b> 3 crs</b> <br> Web Authoring Tools <br> Dr. Henley</td>
+</tr>
+<tr>
+   <th scope="row">4pm</th> 
+</tr>
+<tr>
+  <th cope="row">5pm</th>
+  <td> </td>
+  <td> MGMT 026-01  <br> 5:10 pm - 7:00pm  <b> 3 crs</b> <br> Honors Seminar <br> Dr.Magee </td>
+  <td> </td>
+   <td> MGMT 026-01  <br> 5:10 pm - 7:00pm  <b> 3 crs</b> <br> Honors Seminar <br> Dr.Magee </td>
+</tr>  
+<tr>
+    <th scope="row">6pm</th> 
+</tr>
+<tr>
+   <th scope="row">7pm</th>
+</tr>
+  
+</table>
+  
+  </body>
+  </html>
