@@ -2,7 +2,9 @@
 <head>
 <title>Hello, World!</title>
 </head>
-<body>
+
+<body> 
+
 <h1 id="name">Morgan Wilcox <img id="profile" src="https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAIA_wDGAAAAAQAAAAAAAAxZAAAAJGJkYTYyZGFlLThjMDYtNDgxZS1iZDU2LWQ5MGY2NzA2NTVhNg.jpg" valign="middle"/></h1>
 
 <span>
@@ -91,16 +93,19 @@ Software
 </h4>
 <p>
 MS Project, MS Visio, MS Office
-</p>
-    
-  </body>
-  </html>
-  
+</p> 
+
+</body>
+</html>
   
   
   
   h1 { font-family: Times New Roman,Times;
     font-size: 40px}
+body { font-family: Calibri;
+  padding-left:75px;
+  padding-right:75px; 
+  }
     
 .light {
           font-family:calibri;
@@ -115,6 +120,6 @@ MS Project, MS Visio, MS Office
 #profile {padding-left: 100px; padding-bottom: 30px}
 #l3 
 
-body { font-family: Calibri;
-  padding-left:75px;
-  padding-right:75px}
+
+  
+  
