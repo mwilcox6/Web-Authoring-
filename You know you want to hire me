@@ -1,0 +1,32 @@
+<html>
+<head>
+<title>Forms</title>
+</head>
+<body>
+<h1>
+  <center> You know you want to hire me </center>
+</h1>
+<p>
+<img src="https://serving.photos.photobox.com/44872474bc560c1894898af20b8890187492bde5d234875d60ce54fbfee8b29322364a05.jpg" align="left"> Hailing from the Sunshine State, I am Morgan Wilcox, an entreprising business student studying Computer Information Systems at Howard University. I have interests digital media production, content development and data analytics. I have a diverse background in technology and program planning through my experience working for Dell Teconologies and LiveNation Entertainment. My commitment to academic excellence and willingness to seek information and global opportunities have served to provide sustainable business solutions.
+</p>
+<form action="http://example.com/join.php">
+<fieldset>
+<legend>Position </legend>
+<label>Company <input type="text" name="company"></label>
+<br /><label>Role<input type="text" name="role"></label>
+<br /><label>Location 
+  <input type="text" name="location"></label>
+  
+  </fieldset>
+<p>
+How many vacation days are offered?
+<input type="integer" name="vacationdays" />
+<br />
+What is the salary offer (i.e 10,000)?
+<input type="integer" name="salary" />
+</p>
+<input type="hidden" name="password">
+<input type="submit" value="Submit">
+</form>
+</body>
+</html>
