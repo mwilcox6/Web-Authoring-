@@ -1,0 +1,113 @@
+<html>
+<head>
+<title>Hello, World!</title>
+</head>
+<body>
+<h1 id="name">Morgan Wilcox <img id="profile" src="https://serving.photos.photobox.com/36811862c8121a7d436bc02038ba9bf735ee481fa03177b6e5ce42b477c6217040ecbdf0.jpg" valign="middle"/></h1>
+
+<span>
+<center>Washington, DC 20002 | (954)258-9841 | 
+<a href="mailto:morganwilcox6@gmail.com"> morganwilcox6@gmail.com</a> |
+<a href="https://www.linkedin.com/in/morganwilcox/"   target="_blank"> Morgan's LinkedIn</a></center>
+</span>
+
+<hr size=3; color="black"; width="2000"; >
+<h2>
+<center> Career Summary</center>
+
+</h2>
+<p>
+Enterprising, honors computer information systems student with a diverse background in technology and program planning. Early career demonstrates experience analyzing market trends, forecasting pipeline, researching corporate strategy, and developing exceptional relationships with clients and peers. A commitment to academic excellence and willingness to seek information and global opportunities have served to provide sustainable business solutions.
+</p>
+<br> 
+<br>
+<hr size=2; color="black"; width="1500"; >
+<h2>
+<center>Core Competencies</center>
+</h2>
+<p>
+<center>StoneEagle •  Salesforce •  Social Media • Mac OSX • Microsoft     Sales • Strategic Analysis SQL • HTML  </center>
+
+</p>
+<hr size=2; color="black"; width="1500"; >
+<h2>
+<center>Education </center>
+</h2>
+<p>
+<b>Howard Universtiy </b>
+<span style="float:right;">May 2018</span>
+<br>
+B.B.A Computer Information Systems
+<span style="float:right;">GPA:3.6</span><br>
+<br>
+<b>Universidad Carlos III de la Madrid</b>
+ <br> 
+IES Abroad Madrid—Engineering, Architecture, and Science
+<br>
+<hr size=2; color="black"; width="1500"; >
+<h2>
+ <center>Experience</center>
+</h2>
+<p>
+<b>Dell Technologies</b> - <i>Consultant </i>; Washington, D.C <span style="float:right;"> Jan 2018 to April 2018</span>
+</p>
+<p>
+  <sl>
+    <li>
+      Developed a tool in excel using macros that automatically reocmmends products to remove form the product portfolio based on shortage, sales, and forecast performance 
+    </li>
+    <li>
+Analyzed existing procedures regarding order fulfillment, sales planning, and risk management while leading a dynamic team of students and ensuring that our capstone project is on track to achieve goals
+    </li>
+  </sl>
+  <p>
+  <b>Live Nation Entertainment</b> - <i>VIP Account Manager </i>; Washington, D.C <span style="float:right;"> Aug 2017 to Jan 2018</span>
+  </p>
+<p>
+<sl>
+<li> 	
+Created an SQL database that summarized account information, tracked delinquent accounts, recorded charges, permitted ticket ordering, and improved overall VIP customer experience</li>
+<li>
+Increased premium seat upsells by 40% with over 2,000 tickets sold and contributed to $100,000 in total VIP ticket sales </li>
+</sl>
+
+</p>
+<b>Institute of Tourism and Hotel Management</b> - <i> International Consultant </i>; Agra,India erprises <span style="float:right;">  Aug 2016 to Dec 2016</span>
+<p>
+<sl>
+<li> 
+Develop a strategy to increase tourism in Agra, India that was implemented and increased tourism by nearly 35%</li>
+<li> 	
+Selected by Howard University to collaborate with Indian graduate students and research economic, political, and financial factors affecting the tourism industry </li>
+</sl>
+</p>
+<b>JM Family Enterprises</b><i> - Financial Planning Intern </i>; Washington, D.C <span style="float:right;"> Jun 2016 to Aug 2016</span>
+<p>
+<sl>
+<li> 
+Analyzed sales reports that outlined sales volume, shortage and surplus data, and other figures for Executive Management review</li>
+<li> Spearheaded partnerships that led to a 5% increase in 2nd quarter automobile sales</li>
+</sl>
+</p>
+<hr size=2; color="black"; width="1500"; >
+<h2>
+<center>Extra Curricular</center>
+</h2></body>
+<b>School of Business Honors Program </b> -  <i>Student Coordinator </i>; Howard University <span style="float:right;"> Aug 2016- Present </span>
+<sl>
+  <li>
+Developed program that allowed students to complete for-credit internships during the semester while leading a team of underclassmen students introducing them to case studies and business communication
+
+  </li>
+</sl>
+<b> Endustry Power Players </b> - <i>Project Management</i>; Howard University<span style="float:right;"> Aug 2014– May 2016 </span>
+<sl>
+  <li>
+Planned events in collaboration with Atlantic Records and BMI, with appearances from major celebrities like Sevyn Streeter, PnB Rock and Catherine Brewton on Howard’s Campus with over 200 attendees
+  </li>
+</sl>
+<body>
+    
+
+  </body>
+  </html>
