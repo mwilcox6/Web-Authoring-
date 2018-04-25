@@ -1,0 +1,58 @@
+<html>
+<head>
+    <title>Homestyle Potatoes and Sausag</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.0/css/bootstrap.min.css" integrity="sha384-9gVQ4dYFwwWSjIDZnLEWnxCjeSWFphJiwGPXr1jddIhOegiu1FwO5qRGvFXOdJZ4" crossorigin="anonymous">
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.0/umd/popper.min.js" integrity="sha384-cs/chFZiN24E4KMATLdqdvsezGxaGsi4hLGOzlXwp5UZB1LY//20VyM2taTB4QvJ" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.0/js/bootstrap.min.js" integrity="sha384-uefMccjFJAIv6A+rW+L4AHf99KvxDjWSu1z9VI8SKNVmz4sk7buKt/6v9KI65qnm" crossorigin="anonymous"></script>
+</head>
+<body>
+<div class="card-header">
+<h1>Homestyle Potatoes and Sausag</h1></div>
+<p>Growing up, I would always make breakfast for my younger siblings.They were all so picky and they never wanted anything I prepared. That changed the day I made my famous homestyle potatoes and sausage. 
+I usually eat this meal as a quick breakdfast option. I am currently a pescatarian so I don't eat the sausage but I still prepare it for my siblings. Today, I will walk you through my infamous recipie. </p>
+  
+<h2 class="card-title">3 medium sized potatoes</h2>
+<ul>
+    <li class="list-group-item">1 onion</li>
+    <li class="list-group-item">2 medium sized tomatoes </li>
+   <li class="list-group-item">1 large green pepper </li>
+   <li class="list-group-item"> 2 tps of red pepper flakes</li>
+   <li class="list-group-item">2 cloves of garlic </li>
+    <li class="list-group-item">2 tps of salt</li>
+    <li class="list-group-item">2 tsp of pepper</li>
+    <li class="list-group-item">13oz Turkey Sausage</li>
+    <li class="list-group-item">3/4 cup of vegetable oil</li>
+</ul>
+<h2 class="card-title">What to Do!</h2>
+<ol>
+    <li>First, rinse all of your vegetables</li>
+    <li>Peel potatoes and cut into small cubes</li>
+    <li>Place into a strainer and strain now cut potatoes</li>
+    <li >Season with 1 tps of salt</li>
+    <li>Place frying pan on stove with 3/4 cups of oil over medium heat</li>
+    <li>While the oil heats, slice the turkey sausage into small circles</li> 
+    <li>Place potatoes into heated oil</li>
+    <li>Dice green pepper, garlic, onion, and tomatoes into small cubes</li>  
+    <li>Continuously mix potatoes,making sure that each side is cooked</li> 
+   <li>Fry for about 5-10 minutes or until golden brown</li> 
+   <li>Reduce heat, remove potatoes from pan and drain oil</li>  
+    <li> Leaving only a little oil remaning in the pan and place back on stove over medium heat adding add the garlic and 1 tsp of salt</li> 
+   <li>Satuee for about a minute and add sausage</li> 
+    <li>Cook sausage for about 7 minutes almost fully cooked</li>  
+    <li> Add onion, tomatoes, and bell pepper to the pan</li>
+  <li>Mix continuously </li>
+  <li> Cook until vegetables are tender and sausage if fully cooked</li>
+  <li>Season with red pepper flakes and pepper </li>
+  <li> Place over low heat to let the season cook in for about 3 minutes</li>
+  <li> Reduce heat, Plate and Serve</li>
+  
+    <li>Enjoy the meal!</li>
+    </ol>
+    
+<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.0/umd/popper.min.js" integrity="sha384-cs/chFZiN24E4KMATLdqdvsezGxaGsi4hLGOzlXwp5UZB1LY//20VyM2taTB4QvJ" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.0/js/bootstrap.min.js" integrity="sha384-uefMccjFJAIv6A+rW+L4AHf99KvxDjWSu1z9VI8SKNVmz4sk7buKt/6v9KI65qnm" crossorigin="anonymous"></script>
+
+</body>
+</html>
