@@ -1,10 +1,18 @@
-<html>
+<ht<html>
 <head>
 <title>Hello, World!</title>
 </head>
 <body>
-<h1 id="name">Morgan Wilcox <img id="profile" src="https://serving.photos.photobox.com/36811862c8121a7d436bc02038ba9bf735ee481fa03177b6e5ce42b477c6217040ecbdf0.jpg" valign="middle"/></h1>
-
+  
+  <center> <h1 id="name">Morgan Wilcox </h1> </center>
+  <center>
+  <a href="#cs">Career Summary</a> |
+  <a href="#Edu">Education</a> |
+  <a href="#Exp">Experience</a> |
+  <a href="#Ec">Extra Curricular</a>
+    </h2>
+  </center>
+  
 <span>
 <center>Washington, DC 20002 | (954)258-9841 | 
 <a href="mailto:morganwilcox6@gmail.com"> morganwilcox6@gmail.com</a> |
@@ -12,10 +20,10 @@
 </span>
 
 <hr size=3; color="black"; width="1300"; >
-<h2>
-<center> Career Summary</center>
+  
+  <center> <h2 id="cs">Career Summary</center> </h2>
 
-</h2>
+</>
 <p>
 Enterprising, honors computer information systems student with a diverse background in technology and program planning. Early career demonstrates experience analyzing market trends, forecasting pipeline, researching corporate strategy, and developing exceptional relationships with clients and peers. A commitment to academic excellence and willingness to seek information and global opportunities have served to provide sustainable business solutions.
 </p>
@@ -30,9 +38,9 @@ Enterprising, honors computer information systems student with a diverse backgro
 
 </p>
 <hr size=2; color="black"; width="1300"; >
-<h2>
-<center>Education </center>
-</h2>
+<h2 id="Edu">
+  <center>Education </center> </h2>
+</>
 <p>
 <b>Howard Universtiy </b>
 <span style="float:right;">May 2018</span>
@@ -45,9 +53,9 @@ B.B.A Computer Information Systems
 IES Abroad Madrid—Engineering, Architecture, and Science
 <br>
 <hr size=2; color="black"; width="1300"; >
-<h2>
- <center>Experience</center>
+<center> <h2 id="Exp">Experience</center>
 </h2>
+
 <p>
 <b>Dell Technologies</b> - <i>Consultant </i>; Washington, D.C <span style="float:right;"> Jan 2018 to April 2018</span>
 </p>
@@ -90,9 +98,9 @@ Analyzed sales reports that outlined sales volume, shortage and surplus data, an
 </sl>
 </p>
 <hr size=2; color="black"; width="1300"; >
-<h2>
-<center>Extra Curricular</center>
+<center> <h2 id="Ec">Extra Curricular</center>
 </h2></body>
+
 <b>School of Business Honors Program </b> -  <i>Student Coordinator </i>; Howard University <span style="float:right;"> Aug 2016- Present </span>
 <sl>
   <li>
