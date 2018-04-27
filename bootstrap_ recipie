@@ -1,4 +1,4 @@
-<html>
+html>
 <head>
     <title>Homestyle Potatoes and Sausag</title>
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.0/css/bootstrap.min.css" integrity="sha384-9gVQ4dYFwwWSjIDZnLEWnxCjeSWFphJiwGPXr1jddIhOegiu1FwO5qRGvFXOdJZ4" crossorigin="anonymous">
@@ -12,8 +12,9 @@
 <p>Growing up, I would always make breakfast for my younger siblings.They were all so picky and they never wanted anything I prepared. That changed the day I made my famous homestyle potatoes and sausage. 
 I usually eat this meal as a quick breakdfast option. I am currently a pescatarian so I don't eat the sausage but I still prepare it for my siblings. Today, I will walk you through my infamous recipie. </p>
   
-<h2 class="card-title">3 medium sized potatoes</h2>
+  <center> <h2 class="card-title"> Ingredients</h2> </center>
 <ul>
+ <li class="list-group-item">3 medium sized potatoes</li> 
     <li class="list-group-item">1 onion</li>
     <li class="list-group-item">2 medium sized tomatoes </li>
    <li class="list-group-item">1 large green pepper </li>
@@ -24,7 +25,7 @@ I usually eat this meal as a quick breakdfast option. I am currently a pescatari
     <li class="list-group-item">13oz Turkey Sausage</li>
     <li class="list-group-item">3/4 cup of vegetable oil</li>
 </ul>
-<h2 class="card-title">What to Do!</h2>
+  <center> <h2 class="card-title">What to Do!</h2> </center>
 <ol>
     <li>First, rinse all of your vegetables</li>
     <li>Peel potatoes and cut into small cubes</li>
@@ -56,3 +57,4 @@ I usually eat this meal as a quick breakdfast option. I am currently a pescatari
 
 </body>
 </html>
+
