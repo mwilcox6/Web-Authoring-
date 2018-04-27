@@ -1,0 +1,52 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title> MMW Website - Home</title> 
+
+  <nav>
+    <ul>
+ <li> <b>Home<b>
+   <li> <a href="page2.html"> About </a> </li>
+   <li> <a href="page3.html">Contact</a> </li>
+      <li> <a href="page4.html">Resume</a> </li>
+      <li> <a href="page5.html">More</a> </li>
+    </center>
+    </nav> 
+                                       
+   <p class="right">
+        
+
+	</p>
+<div class="jumbotron jumbotron-fluid">
+  <div class="container">
+    <h1 class="display-4"> <center> Hey There! </center> </h1>
+    <p class="lead">
+  </div>
+</div>
+<div class="card text-center">
+    <div class="card">
+      <div class="card-footer">
+        <center> ~ MMW </center>       </div>
+    </div>
+    </div>  
+             
+                    
+  <!--  Meta  -->
+  <meta charset="UTF-8" />
+  <title>My New Website !</title>
+  
+  <!--  Styles  -->
+  <link rel="stylesheet" href="styles/index.processed.css">
+</head>
+<body>
+   <center>Welcome to my webpage. Here you will learn a little more about me.</p> <center>
+  
+  
+  <script src="scripts/index.js"></script>
+</body>
+     </div>
+   
+    <footer> by Morgan Wilcox</footer>
+   </div>
+</html>
