@@ -1,0 +1,92 @@
+body {
+  padding: 0;
+  margin: 0;
+  font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+}
+
+nav ul {
+  list-style-type: lower-alpha;
+  padding: 3em;
+  margin: 0;
+  width: 10em;
+  float: left;
+  height: 1em;
+  margin-top: 2em;
+}
+
+h1 {
+  font-family: Verdana, Geneva, sans-serif;
+}
+
+nav ul li {
+  margin: 0.5em 0;
+  padding: 0.3em;
+  background: #40CEA2;
+  color: white;
+  text-align: right;
+}
+
+nav li {
+  text-decoration: none;
+}
+
+nav li a:link {
+  color: white;
+}
+
+/* unvisited link */
+
+nav li a:visited {
+  color: white;
+}
+
+/* visited link */
+
+nav li a:hover {
+  color: #FF0000;
+}
+
+/* mouse over link */
+
+nav li a:active {
+  color: #0000FF;
+}
+
+/* selected link */
+
+nav li.current {
+  width: 16em;
+  text-align: left;
+}
+
+nav li.current a {
+  margin-left: 9em;
+  font-weight: bold;
+}
+
+div.content {
+  float: left;
+  margin: 0;
+  padding: 0;
+  margin-left: 9em;
+  margin-top: 1.8em;
+  max-width: 70%;
+}
+
+div.content div {
+  padding: 20px;
+}
+
+#index.html {
+  background-color: #2EADCB;
+}
+
+#page2.html {
+  background-color: #2EADCB;
+}
+
+footer {
+  clear: both;
+  font-style: italic;
+  color: grey;
+}
