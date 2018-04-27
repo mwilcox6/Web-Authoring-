@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title> MMW Website - About </title>
+  </head>
+  <body>
+    <center> <font size="7"> <h1> MMW Website </h1> </font>
+      <nav>
+        <font size="4">
+      <a href="index.html">Home |  <b>About</b>  | <a href="page3.html">Contact</a> | <a href="page4.html">Resume</a> | <a href="page5.html">More</a> </font> </nav>
+        </center>
+      <center><h2> About </h2> </center>
+      
+       <div class="content"><!--About-->
+       <div id="page2">
+         <p>     <center> <font size="5"> This is a project for a class that I am in called Web Authoring. I think I want to do something fun and creative with this exercise but that all depends on how much time I have before all of this is due... For now I will share a few photos from my travels, I love travelling ! </font>
+      </center> </p>
+    <style>     
+           body {
+    background-image: url("https://serving.photos.photobox.com/492941472402fca2d15578ab45a98e1e7ec9708875a28e57dfe956178757da51e8005a34.jpg");
+    background-repeat: repeat-x;
+}
+      body {
+        color: White;
+         padding: 10;
+         margin: 5;
+        font-family: "Apple Chancery", vintage;
+}
+      }
+         </style> 
+         
+         <br>
+         <br>
+    </div>
+   
+   <footer> by Morgan Wilcox</footer>
+   </div>
+      
+        
+  </body>
+</html>
